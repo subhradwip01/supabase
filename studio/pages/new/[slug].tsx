@@ -479,11 +479,9 @@ const Wizard: NextPageWithLayout = () => {
                         <div>
                           <p>
                             Launching another project incurs additional compute costs, starting at
-                            $0.01344 per hour (~$10/month).
-                          </p>
-                          <p>
-                            You can also create a new organization under the free plan (unless you
-                            have exceeded your 2 free project limit).
+                            $0.01344 per hour (~$10/month). You can also create a new organization
+                            under the free plan in case you have not exceeded your 2 free project
+                            limit.
                           </p>
                         </div>
                       )}
